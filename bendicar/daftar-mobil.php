@@ -23,14 +23,14 @@
         <div class="mobil-item">
             <img src="mobil/mobil 1.jpg" alt="Mobil 1" width= 200>
             <h3>Mobil 1</h3>
-            <p>Harga: Rp 500.000 / hari</p>
+            <p>Harga: Rp 500.000/hari</p>
             <p>Jenis: Sedan</p>
             <p>Kap. Penumpang: 4 orang</p>
         </div>
         <div class="mobil-item">
             <img src="mobil/mobil 2.jpg" alt="Mobil 2" width=200>
             <h3>Mobil 2</h3>
-            <p>Harga: Rp 700.000 / hari</p>
+            <p>Harga: Rp 700.000/hari</p>
             <p>Jenis: SUV</p>
             <p>Kap. Penumpang: 7 orang</p>
         </div>
